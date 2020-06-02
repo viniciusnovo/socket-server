@@ -1,0 +1,7 @@
+# config.yml
+# Bolivon Socket Server Config File
+#
+ApiURL: 'http://www.mocky.io/v2/5ed5db533400004d0006d47e'
+WebHookUrl: 'https://webhook.site/9e5bcd9a-5c24-4b84-95c8-f31a9f6ad5cf'
+InputMessageType: 'xml'
+ListenPort: 15717
